@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.AssemblyInfo.cs
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.exe
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.deps.json
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.runtimeconfig.json
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.dll
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\ref\serverChat.dll
+C:\Users\User\source\repos\Chat\serverChat\bin\Debug\net5.0\serverChat.pdb
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.dll
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\ref\serverChat.dll
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.pdb
+C:\Users\User\source\repos\Chat\serverChat\obj\Debug\net5.0\serverChat.genruntimeconfig.cache
